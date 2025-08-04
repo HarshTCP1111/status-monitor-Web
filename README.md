@@ -6,7 +6,7 @@ This project is an uptime monitoring and status page solution that tracks the av
 
 ## 📡 Live Status Dashboard
 
-🟢 **Live Dashboard**: [status.yourdomain.com](https://status.yourdomain.com)  
+🟢 **Live Dashboard**: [stats.techconciergepro.com](https://stats.techconciergepro.com/status/car-concierge-pro)  
 _Replace this with your actual GitHub Pages link or custom domain._
 
 | Service           | Status | Response Time | Uptime   |
@@ -50,7 +50,7 @@ _Replace this with your actual GitHub Pages link or custom domain._
 ## 🧑‍💻 Maintained by
 
 **Harsh Shuddhalwar**  
-🔗 [GitHub](https://github.com/HarshTCP1111) | 🌐 [Portfolio](https://yourdomain.com)
+🔗 [GitHub](https://github.com/HarshTCP1111) | 🌐 [Linkedin]([https://yourdomain.com](https://www.linkedin.com/in/harsh-shuddhalwar-4b1968213/))
 
 > Part of a suite of internal automation and reliability tools.
 
